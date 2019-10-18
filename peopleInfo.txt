@@ -1,0 +1,6 @@
+John:10
+Betty:22
+Phoebe:50
+Yooj:5
+R.K.:20
+Tricia:100
